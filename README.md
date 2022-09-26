@@ -5,7 +5,7 @@
 
 <br>
 
- I am **Abdus Salam** currently pursuing my Bachelor's in Computer Application from [IGNOU](https://igbou.ac.in/). <br><br>
+ I am **Asif Khan**.<br>
  **Exploring amazing things in Tech**
 <br>
 <br>
@@ -15,13 +15,9 @@
  <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/python.png?raw=true" height="40">
  <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/html.png?raw=true" height="40" >
  <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/css.png?raw=true" height="40">
- <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/c.png?raw=true" height="40">
- <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/c++.png?raw=true" height="40" >
  <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/vs.png?raw=true" height="40">
  <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/git.png?raw=true" height="40" >
- <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/java.png?raw=true" height="40">
- <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/flutter.png?raw=true" height="40">
- <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/android.png?raw=true" height="40">
+  
 </div>
 <br>
 <br>
@@ -30,9 +26,9 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=abdussalam02&show_icons=true&hide_border=false&theme=black" width="47%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=abdussalam02&theme=black" width="50%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroAsif&theme=black" width="50%" >
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=abdussalam02)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ZeroAsif)
 
 <br>
 
@@ -48,12 +44,8 @@
 
  <p align="left">
 
-  <a href="https://twitter.com/_aladdin_02" target = "_blank"  alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=LINK-DO-SEU-TWITTER"/></a>
- 
- <a href="https://www.linkedin.com/in/abdus-salam-06278a217/" target = "_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN"/></a>
+   
 
-  <a href="https://www.instagram.com/abdussalam_02/" target = "_blank" alt="Instagram">
+  <a href="https://www.instagram.com/_zero_asif/" target = "_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
